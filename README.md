@@ -48,6 +48,10 @@ A deep learning model that detects deepfake videos by leveraging spatial and tem
 - **Accuracy**: **86%**
 - **Improved generalization** using augmentation and regularization
 
+![Final_Result](https://github.com/user-attachments/assets/5dd5419b-c2c3-4df5-918b-a11a94c54aed)
+
+
+
 
 
 
